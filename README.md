@@ -1,8 +1,10 @@
+<!---
 <p align="center">
 <a href="https://github.com/drkostas">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=100&color=F7297A&multiline=true&width=500&height=100&lines=Hi there, This is Ahmed Mujtaba;Masters in Computer Engineering;PhD Student at SAL;TinyML+%7C+Computer+Vision+%7C+EdgeAI" alt="Typing SVG" />
 </a>
 <br/>
+-->
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="45px"> ABOUT ME:
 - 🏦 I'm a PhD Student at Silicon Austria Labs, GmbH, Austria.
